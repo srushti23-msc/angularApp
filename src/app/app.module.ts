@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+git config --global user.nameimport { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
